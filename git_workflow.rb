@@ -8,7 +8,8 @@ git diff
 git status
 
 git add .
-***** git reset HEAD <file> ***** if you messed up.
+***** git reset HEAD <file, .> ***** if you messed up.
+***** git chckout -- <file, .> ***** if you want to discard changes.
 git commit -m "message of work completed"
 
 git push origin new_branch
