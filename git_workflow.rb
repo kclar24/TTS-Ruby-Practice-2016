@@ -8,6 +8,7 @@ git diff
 git status
 
 git add .
+***** git reset HEAD <file> ***** if you messed up.
 git commit -m "message of work completed"
 
 git push origin new_branch
